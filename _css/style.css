@@ -45,7 +45,7 @@ ul li a {
 }
 
 ul li:hover {
-    background-color: #1a8804;
+    background-color: white;
 }
 
 
@@ -68,7 +68,7 @@ ul li:hover {
 
 footer {
     clear: both;
-    background-color:white;
+    background-color: #0e5201;
     height: 30px;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
