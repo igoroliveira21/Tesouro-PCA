@@ -1,6 +1,6 @@
 header {
-    background-color: rgba(0, 0, 0, 0.4);
-    height: 150px;
+    background-color: white;
+    height: 250px;
     width: 100%;
 }
 
@@ -82,8 +82,11 @@ footer {
     margin: auto;
 }
 
-.fotocabeçalho {
+#objetivos {
     position: relative;
+    display: block;
+    padding: 0px 0px 0px 50%;
+    margin: -250px 0px 0px 0px;
 }
 
 
